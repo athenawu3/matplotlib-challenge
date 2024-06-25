@@ -17,9 +17,3 @@ The main pandas script is located in 'Starter_Code/Pymaceuticals/pymaceutical_ma
 
 #### Function: Take index of a series
 - **Section 28, Line 8**: Assisted by ChatGPT
-
-#### Function: Calculate correlation coefficient
-- **Section 38, Line 6**: Assisted by ChatGPT
-
-#### Function: Calculate linear regression model
-- **Section 38, Line 12-15**: Assisted by ChatGPT
